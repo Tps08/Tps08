@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tps08
+- 👋 Hi, I’m Tej Pratap Singh aka TPS 
 - 👀 I’m interested in Startups and Businesses
 - 🌱 I’m currently learning Analytics
 - 💞️ I’m looking to collaborate on Analytical Projects
